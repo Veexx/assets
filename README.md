@@ -1,0 +1,2 @@
+# assets
+some Static resources
